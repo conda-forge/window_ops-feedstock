@@ -1,11 +1,11 @@
-About window-ops
-================
+About window-ops-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/window_ops-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/jose-moralez/window_ops
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/window_ops-feedstock/blob/main/LICENSE.txt)
 
 Summary: Implementations of window operations such as rolling and expanding.
 
